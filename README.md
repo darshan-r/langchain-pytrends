@@ -1,2 +1,1 @@
-# Langchain-tools
-A repo for Langchain tools
+# Langchain Tool for Google Trends via PyTrends
